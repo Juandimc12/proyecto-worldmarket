@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "Facturacion_worldmarket/Facturacion_worldmarket.sqlproj"
+    ]
+}
